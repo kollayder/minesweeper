@@ -1,5 +1,5 @@
-minesweeper
+﻿Minesweeper
 ===========
-ухахаха
+Моя гра готова, ура!
 
 my Java game
