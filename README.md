@@ -2,4 +2,4 @@
 ===========
 Моя гра готова, ура!
 
-my Java game
+my Java game іs done!
